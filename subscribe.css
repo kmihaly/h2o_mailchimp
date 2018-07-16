@@ -38,6 +38,7 @@ ul {
 .button, .clear {
     display: block;
     margin: auto;
+    margin-top: 10px;
     font-weight: bold;
 }
 
